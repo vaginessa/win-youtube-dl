@@ -12,7 +12,6 @@ TL;DR: This application is for non-technies. Power users are encouraged to use t
 Download
 --------
 https://github.com/fredyw/win-youtube-dl/releases/download/1.0.0/win-youtube-dl.zip
-https://sourceforge.net/projects/winyoutubedl/files/latest/download
 
 How to build
 ------------
@@ -23,7 +22,7 @@ It also requires at least Java 7 (http://java.com/en/download/index.jsp).
 
 How to run
 --------------
-    Unzip win-youtube-dl.zip at https://sourceforge.net/projects/winyoutubedl/files/latest/download
+    Unzip win-youtube-dl.zip at https://github.com/fredyw/win-youtube-dl/releases/download/1.0.0/win-youtube-dl.zip
     Double click on win-youtube-dl.exe
 
 Screenshot
