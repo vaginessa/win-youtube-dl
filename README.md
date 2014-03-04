@@ -7,8 +7,12 @@ Technically speaking, this application can work on Linux and Mac OSX, but I don'
 having this application run those two OSes since Linux or Mac OSX users should be familar with
 using a command line.
 
-TL;DR: This application (https://sourceforge.net/projects/winyoutubedl/files/latest/download) is for non-technies.
-       Power users are encouraged to use the real script (http://rg3.github.io/youtube-dl/download.html).
+TL;DR: This application is for non-technies. Power users are encouraged to use the real script directly (http://rg3.github.io/youtube-dl/download.html).
+
+Download
+--------
+https://github.com/fredyw/win-youtube-dl/releases/download/1.0.0/win-youtube-dl.zip
+https://sourceforge.net/projects/winyoutubedl/files/latest/download
 
 How to build
 ------------
