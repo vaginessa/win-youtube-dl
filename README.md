@@ -9,7 +9,7 @@ using a command line.
 
 Download
 --------
-https://github.com/fredyw/win-youtube-dl/releases/download/1.0.0/win-youtube-dl.zip
+https://github.com/fredyw/win-youtube-dl/releases
 
 How to build
 ------------
