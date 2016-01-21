@@ -20,10 +20,10 @@ It also requires at least Java 7 (http://java.com/en/download/index.jsp) to buil
 
 How to run
 --------------
-    1. Download win-youtube-dl.zip from https://github.com/fredyw/win-youtube-dl/releases
-    2. Unzip win-youtube-dl.zip
-    3. Double click on win-youtube-dl.exe
-    4. Click on Update button to make sure you always get the latest update
+1. Download win-youtube-dl.zip from https://github.com/fredyw/win-youtube-dl/releases
+2. Unzip win-youtube-dl.zip
+3. Double click on win-youtube-dl.exe
+4. Click on Update button to make sure you always get the latest update
 
 Screenshot
 ----------
