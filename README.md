@@ -14,11 +14,12 @@ using a command line.
 build.bat
 ```
 
-## How to run
-1. Download `win-youtube-dl.zip` from [https://github.com/fredyw/win-youtube-dl/releases](https://github.com/fredyw/win-youtube-dl/releases)
-2. Unzip `win-youtube-dl.zip`
-3. Double click on `win-youtube-dl.exe`
-4. Click on Update button to make sure you always get the latest update
+## How to Run
+1. Download [Java](https://java.com/en/download/) if you haven't done so.
+2. Download `win-youtube-dl.zip` from [https://github.com/fredyw/win-youtube-dl/releases](https://github.com/fredyw/win-youtube-dl/releases)
+3. Unzip `win-youtube-dl.zip`
+4. Double click on `win-youtube-dl.exe`
+5. Click on Update button to make sure you always get the latest update
 
 ## Screenshot
 ![win-youtube-dl screenshot](images/win-youtube-dl.png)    
