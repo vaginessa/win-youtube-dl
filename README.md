@@ -9,15 +9,15 @@ using a command line.
 [https://github.com/fredyw/win-youtube-dl/releases](https://github.com/fredyw/win-youtube-dl/releases)
 
 ## How to build
-*win-youtube-dl* requires at least Java 8 to build.
+**win-youtube-dl** requires at least Java 8 to build.
 ```
 build.bat
 ```
 
 ## How to run
 1. Download `win-youtube-dl.zip` from [https://github.com/fredyw/win-youtube-dl/releases](https://github.com/fredyw/win-youtube-dl/releases)
-2. Unzip win-youtube-dl.zip
-3. Double click on win-youtube-dl.exe
+2. Unzip `win-youtube-dl.zip`
+3. Double click on `win-youtube-dl.exe`
 4. Click on Update button to make sure you always get the latest update
 
 ## Screenshot
