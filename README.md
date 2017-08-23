@@ -8,7 +8,7 @@ using a command line.
 ## Download
 [https://github.com/fredyw/win-youtube-dl/releases](https://github.com/fredyw/win-youtube-dl/releases)
 
-## How to build
+## How to Build
 **win-youtube-dl** requires at least Java 8 to build.
 ```
 build.bat
