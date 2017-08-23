@@ -1,7 +1,10 @@
-bin
-build
-.settings
-.project
-.classpath
-.gradle
-*~
+# Vim
+*.swp
+
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
